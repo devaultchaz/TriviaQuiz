@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TriviaQuiz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_bug">Grace Hopper coined the term debugging because of a moth</string>
+    <string name="question_eniac">Kay McNulty was one of the original ENIAC programmers who helped develop Cobol Fortan</string>
+    <string name="question_ada">Even though Ada Lovelace is considered the first computer programmer, none of her programs were tested on a computer in her lifetime</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct</string>
+    <string name="prev_button">Previous</string>
+</resources>
